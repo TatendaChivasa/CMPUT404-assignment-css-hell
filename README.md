@@ -29,7 +29,7 @@ https://codingislove.com/css-speech-bubbles/
 
 https://css-tricks.com/the-shapes-of-css/
 
-Social Media Icons Source: 
+Social Media Icons Source: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 
 Sppech Bubble reference: https://codingislove.com/css-speech-bubbles/
 
