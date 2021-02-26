@@ -1,0 +1,149 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #0f263f;/* #E0FFFF;*/
+    background-size: cover;
+    }
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background:  #0f263f;   /* #242882;*/
+    color: white;
+    font-size: 30px;
+    text-decoration:none;
+    font-weight: normal;
+}
+
+.navbar {
+    overflow: hidden;
+    /*background-color:   #053860;  #123C69 ;*/
+    border-top: 0.5px solid #DAA520;
+    border-bottom: 0.5px solid #DAA520;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    
+  }
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    background-color: #0f263f;
+
+}
+
+/* Change color on hover */
+.navbar a:hover {
+    background-color: #557A95; /* #379683;   /* #659DBD; */
+    color: white;
+    /* overflow: hidden; */
+  }
+
+/* Right-aligned link */
+/* .navbar a.right {
+    float: right;
+  } */
+
+
+img{   
+    float: left;
+    padding: 20px;
+  }
+       
+/* Footer */
+.footer {
+    overflow: hidden;
+    text-align: center;
+    background:#0f263f; /* #053860;*/
+    position: sticky;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 0.5px solid #DAA520;
+    /* color: white; */
+    /* font-size: 10px */
+    /* position: fixed; */
+  }       
+.footer a { 
+    float: left; 
+    display: block;   
+    text-align: center;   
+    padding: 14px 20px; 
+    width:10px ;  
+    /* transition: all 0.5s ease;    */
+    color: white;   
+    /* font-size: 20px;    */
+  }         
+
+li {
+    list-style: none;
+    margin: 10px 30px;
+    display: inline-block;
+    font-size: 20 px;
+    padding: 20px 20px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    transition: 5s;
+}
+
+.content {
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-right: 100px;
+  font-size:large;
+  color: black;
+  border: 0.5px solid #DAA520;
+  background: #ADD8E6;
+  display:inline-block;
+  margin-bottom: 100px;
+}
+
+.rec{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  margin-top: 50px;
+  transform: translate(-50%, -50%);
+  border: 0.5px solid #DAA520;
+  background: #ADD8E6;
+
+}
+
+.work {
+  margin-left: 20px;
+  font-weight: bold;
+  
+}
+
+ul {
+  list-style-type:none;
+  margin-left: 25px;
+}
+
+.skills {
+  padding: 10px;
+}
+
+.category {
+  font-size: large;
+}
+
+.info {
+  padding: 10px;
+  font-size: large;
+}
+
+.extra {
+  margin-left: 30px
+}
+span {
+  margin-left:200px;
+}
